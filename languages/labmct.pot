@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-16 21:22+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description of the plugin
+msgid "Very simple plugin only add news Categories, news Tags and trash to WordPress Media Library."
+msgstr ""
+
+#: includes/labmct-taxonomies.php:12
+msgctxt "Taxonomy General Name"
+msgid "Thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:13
+msgctxt "Taxonomy Singular Name"
+msgid "Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:14
+msgid "Thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:15
+msgid "Search_Thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:16
+msgid "All Thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:17
+msgid "Parent Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:18
+msgid "Parent Thematic:"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:19
+msgid "Edit Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:20
+msgid "Update Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:21
+msgid "Add New Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:22
+msgid "New Thematic Name"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:23
+msgid "View Thematic"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:24
+msgid "Separate thematics with commas"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:25
+msgid "Add or remove thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:26 includes/labmct-taxonomies.php:69
+msgid "Choose from the most used"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:27
+msgid "Popular thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:28 includes/labmct-taxonomies.php:71
+msgid "Not Found"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:29
+msgid "No thematics"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:30
+msgid "Thematics list"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:31
+msgid "Thematics list navigation"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:55
+msgctxt "Taxonomy General Name"
+msgid "Types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:56
+msgctxt "Taxonomy Singular Name"
+msgid "Type"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:57
+msgid "Types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:58
+msgid "Search_Types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:59
+msgid "All Types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:62
+msgid "Edit Type"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:63
+msgid "Update Type"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:64
+msgid "Add New Type"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:65
+msgid "New Type Name"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:66
+msgid "View Type"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:67
+msgid "Separate types with commas"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:68
+msgid "Add or remove types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:70
+msgid "Popular types"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:72
+msgid "No terms"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:73
+msgid "Types list"
+msgstr ""
+
+#: includes/labmct-taxonomies.php:74
+msgid "Types list navigation"
+msgstr ""

@@ -1,0 +1,176 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Lab Media Categories and Tags\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-16 21:22+0100\n"
+"PO-Revision-Date: 2020-01-19 15:35+0000\n"
+"Last-Translator: labarta <labarta31@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid ""
+"Very simple plugin only add news Categories, news Tags and trash to "
+"WordPress Media Library."
+msgstr ""
+"Plugin muy sencillo, que solo agrega nuevas categorías, nuevas etiquetas y "
+"la papelera en la Biblioteca de medios de WordPress."
+
+#: includes/labmct-taxonomies.php:12
+msgctxt "Taxonomy General Name"
+msgid "Thematics"
+msgstr "Temáticas"
+
+#: includes/labmct-taxonomies.php:13
+msgctxt "Taxonomy Singular Name"
+msgid "Thematic"
+msgstr "Temática"
+
+#: includes/labmct-taxonomies.php:14
+msgid "Thematics"
+msgstr "Temáticas"
+
+#: includes/labmct-taxonomies.php:15
+msgid "Search_Thematics"
+msgstr "Buscar temáticas"
+
+#: includes/labmct-taxonomies.php:16
+msgid "All Thematics"
+msgstr "Todas las temáticas"
+
+#: includes/labmct-taxonomies.php:17
+msgid "Parent Thematic"
+msgstr "Temática superior"
+
+#: includes/labmct-taxonomies.php:18
+msgid "Parent Thematic:"
+msgstr "Temática superior:"
+
+#: includes/labmct-taxonomies.php:19
+msgid "Edit Thematic"
+msgstr "Editar temática"
+
+#: includes/labmct-taxonomies.php:20
+msgid "Update Thematic"
+msgstr "Actualizar temática"
+
+#: includes/labmct-taxonomies.php:21
+msgid "Add New Thematic"
+msgstr "Añadir una nueva temática"
+
+#: includes/labmct-taxonomies.php:22
+msgid "New Thematic Name"
+msgstr "Renombrar temática"
+
+#: includes/labmct-taxonomies.php:23
+msgid "View Thematic"
+msgstr "Ver temática"
+
+#: includes/labmct-taxonomies.php:24
+msgid "Separate thematics with commas"
+msgstr "Separar temáticas con comas"
+
+#: includes/labmct-taxonomies.php:25
+msgid "Add or remove thematics"
+msgstr "Añadir o eliminar temáticas"
+
+#: includes/labmct-taxonomies.php:26 includes/labmct-taxonomies.php:69
+msgid "Choose from the most used"
+msgstr "Elige entre las más usadas"
+
+#: includes/labmct-taxonomies.php:27
+msgid "Popular thematics"
+msgstr "Temáticas más usadas"
+
+#: includes/labmct-taxonomies.php:28 includes/labmct-taxonomies.php:71
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: includes/labmct-taxonomies.php:29
+msgid "No thematics"
+msgstr "No hay temáticas"
+
+#: includes/labmct-taxonomies.php:30
+msgid "Thematics list"
+msgstr "Listado de temáticas"
+
+#: includes/labmct-taxonomies.php:31
+msgid "Thematics list navigation"
+msgstr "Listado navegación de temáticas"
+
+#: includes/labmct-taxonomies.php:55
+msgctxt "Taxonomy General Name"
+msgid "Types"
+msgstr "Tipos"
+
+#: includes/labmct-taxonomies.php:56
+msgctxt "Taxonomy Singular Name"
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/labmct-taxonomies.php:57
+msgid "Types"
+msgstr "Tipos"
+
+#: includes/labmct-taxonomies.php:58
+msgid "Search_Types"
+msgstr "Buscar tipos"
+
+#: includes/labmct-taxonomies.php:59
+msgid "All Types"
+msgstr "Todos los tipos"
+
+#: includes/labmct-taxonomies.php:62
+msgid "Edit Type"
+msgstr "Editar tipo"
+
+#: includes/labmct-taxonomies.php:63
+msgid "Update Type"
+msgstr "Actualizar tipo"
+
+#: includes/labmct-taxonomies.php:64
+msgid "Add New Type"
+msgstr "Añadir un nuevo tipo"
+
+#: includes/labmct-taxonomies.php:65
+msgid "New Type Name"
+msgstr "Renombrar tipo"
+
+#: includes/labmct-taxonomies.php:66
+msgid "View Type"
+msgstr "Ver tipo"
+
+#: includes/labmct-taxonomies.php:67
+msgid "Separate types with commas"
+msgstr "Separar tipos con comas"
+
+#: includes/labmct-taxonomies.php:68
+msgid "Add or remove types"
+msgstr "Añadir o eliminar tipos"
+
+#: includes/labmct-taxonomies.php:70
+msgid "Popular types"
+msgstr "Tipos más usados"
+
+#: includes/labmct-taxonomies.php:72
+msgid "No terms"
+msgstr "Sin términos"
+
+#: includes/labmct-taxonomies.php:73
+msgid "Types list"
+msgstr "Listado de tipos"
+
+#: includes/labmct-taxonomies.php:74
+msgid "Types list navigation"
+msgstr "Listado navegación de tipos"
